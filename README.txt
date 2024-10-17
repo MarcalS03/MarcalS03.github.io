@@ -8,7 +8,7 @@ the other interesting (and in some cases, semi-secret) projects I've been workin
 a little while to get to actually designing and coding it. Fortunately, things have eased up
 enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
 one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)))
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
